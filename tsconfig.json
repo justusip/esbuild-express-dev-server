@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "noImplicitReturns": true,
+        "strictNullChecks": false,
+        "declaration": true,
+        "outDir": ".",
+        "target": "es6",
+        "lib": [
+            "es2020"
+        ],
+        "sourceMap": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "**/__tests__/*"]
+}
