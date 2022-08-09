@@ -1,6 +1,6 @@
 {
     "name": "esbuild-express-dev-server",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "An express middleware that automatically scans a defined project directory and triggers an ESBuild rebuild when a file inside the directory is detected to be modified.",
     "main": "index.js",
     "types": "index.d.ts",
